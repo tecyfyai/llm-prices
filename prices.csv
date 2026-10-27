@@ -77,12 +77,14 @@ xai,xAI,grok-4.20-0309-reasoning,Grok 4.20 (reasoning),older,1.25,0.2,,2.5,,,200
 xai,xAI,grok-4.20-0309-non-reasoning,Grok 4.20 (non-reasoning),older,1.25,0.2,,2.5,,,200000,2.5,5,1000000,,,,,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-20-0309-non-reasoning
 xai,xAI,grok-build-0.1,Grok Build 0.1,older,1,0.2,,2,,,200000,2,4,256000,,,,,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-build-0-1
 xai,xAI,grok-4.20-multi-agent-0309,Grok 4.20 Multi-agent,older,1.25,0.2,,2.5,,,200000,2.5,5,1000000,,,,,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-20-multi-agent-0309
-deepseek,DeepSeek,deepseek-v4-pro,DeepSeek V4 Pro,current,1.32,0.044,,3.96,,,,,,1000000,,155.3,153.5,157.6,2026-10-14,https://api-docs.deepseek.com/quick_start/pricing,https://tecyfy.com/prices/deepseek-v4-pro
-deepseek,DeepSeek,deepseek-flash,DeepSeek V4.1 Flash,current,0.3,0.006,,1.2,,,,,,1000000,,155.6,153.5,157.6,2026-10-14,https://api-docs.deepseek.com/quick_start/pricing,https://tecyfy.com/prices/deepseek-flash
-kimi,Moonshot AI,kimi-k3,Kimi K3,current,3,0.3,3,15,,,,,,1048576,,157.4,155.1,160.1,2026-10-20,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k3
-kimi,Moonshot AI,kimi-k2.7-code,Kimi K2.7 Code,older,0.95,0.19,,4,,,,,,262144,,149.9,147.9,151.7,2026-10-20,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-7-code
-kimi,Moonshot AI,kimi-k2.7-code-highspeed,Kimi K2.7 Code Highspeed,older,1.9,0.38,,8,,,,,,262144,,,,,2026-10-20,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-7-code-highspeed
-kimi,Moonshot AI,kimi-k2.6,Kimi K2.6,older,0.95,0.16,,4,,,,,,262144,,150.9,149.1,152.8,2026-10-20,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-6
+deepseek,DeepSeek,deepseek-v4-pro,DeepSeek V4 Pro,current,1.32,0.044,,3.96,,,,,,1000000,,155.3,153.5,157.6,2026-10-22,https://api-docs.deepseek.com/quick_start/pricing,https://tecyfy.com/prices/deepseek-v4-pro
+deepseek,DeepSeek,deepseek-flash,DeepSeek V4.1 Flash,current,0.3,0.006,,1.2,,,,,,1000000,,155.6,153.5,157.6,2026-10-22,https://api-docs.deepseek.com/quick_start/pricing,https://tecyfy.com/prices/deepseek-flash
+kimi,Moonshot AI,kimi-k3.1-pro,Kimi K3.1 Pro,current,2,0.2,2,10,,,,,,1048576,,,,,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k3-1-pro
+kimi,Moonshot AI,kimi-k3.1-pro-highspeed,Kimi K3.1 Pro Highspeed,older,4,0.2,4,20,,,,,,1048576,,,,,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k3-1-pro-highspeed
+kimi,Moonshot AI,kimi-k3,Kimi K3,older,3,0.3,3,15,,,,,,1048576,,157.4,155.1,160.1,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k3
+kimi,Moonshot AI,kimi-k2.7-code,Kimi K2.7 Code,older,0.95,0.19,,4,,,,,,262144,,149.9,147.9,151.7,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-7-code
+kimi,Moonshot AI,kimi-k2.7-code-highspeed,Kimi K2.7 Code Highspeed,older,1.9,0.38,,8,,,,,,262144,,,,,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-7-code-highspeed
+kimi,Moonshot AI,kimi-k2.6,Kimi K2.6,older,0.95,0.16,,4,,,,,,262144,,150.9,149.1,152.8,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-6
 qwen,Alibaba,qwen3.8-max,Qwen3.8-Max,current,2,0.25,,6,,,,,,,,156.9,155.1,159.1,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-8-max
 qwen,Alibaba,qwen3.8-flash,Qwen3.8-Flash,current,0.15,0.016,,0.47,,,,,,,,,,,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-8-flash
 qwen,Alibaba,qwen3.7-max,Qwen3.7-Max,older,2.5,0.5,,7.5,,,,,,,,153.8,152,156.2,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-7-max

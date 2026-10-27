@@ -11,7 +11,7 @@
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "Tecyfy, https://tecyfy.com/prices"
   },
-  "updated": "2026-10-20",
+  "updated": "2026-10-23",
   "units": "US dollars per million tokens; context, maxOutput and longAbove in tokens",
   "scores": {
     "name": "Epoch Capabilities Index",
@@ -1917,7 +1917,7 @@
       "score": 155.3,
       "scoreLow": 153.5,
       "scoreHigh": 157.6,
-      "checked": "2026-10-14",
+      "checked": "2026-10-22",
       "source": "https://api-docs.deepseek.com/quick_start/pricing"
     },
     {
@@ -1941,8 +1941,56 @@
       "score": 155.6,
       "scoreLow": 153.5,
       "scoreHigh": 157.6,
-      "checked": "2026-10-14",
+      "checked": "2026-10-22",
       "source": "https://api-docs.deepseek.com/quick_start/pricing"
+    },
+    {
+      "maker": "kimi",
+      "makerName": "Moonshot AI",
+      "id": "kimi-k3.1-pro",
+      "name": "Kimi K3.1 Pro",
+      "page": "https://tecyfy.com/prices/kimi-k3-1-pro",
+      "status": "current",
+      "input": 2,
+      "cachedInput": 0.2,
+      "cacheWrite": 2,
+      "output": 10,
+      "batchInput": null,
+      "batchOutput": null,
+      "longAbove": null,
+      "longInput": null,
+      "longOutput": null,
+      "context": 1048576,
+      "maxOutput": null,
+      "score": null,
+      "scoreLow": null,
+      "scoreHigh": null,
+      "checked": "2026-10-23",
+      "source": "https://platform.kimi.ai/docs/pricing/chat"
+    },
+    {
+      "maker": "kimi",
+      "makerName": "Moonshot AI",
+      "id": "kimi-k3.1-pro-highspeed",
+      "name": "Kimi K3.1 Pro Highspeed",
+      "page": "https://tecyfy.com/prices/kimi-k3-1-pro-highspeed",
+      "status": "older",
+      "input": 4,
+      "cachedInput": 0.2,
+      "cacheWrite": 4,
+      "output": 20,
+      "batchInput": null,
+      "batchOutput": null,
+      "longAbove": null,
+      "longInput": null,
+      "longOutput": null,
+      "context": 1048576,
+      "maxOutput": null,
+      "score": null,
+      "scoreLow": null,
+      "scoreHigh": null,
+      "checked": "2026-10-23",
+      "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
       "maker": "kimi",
@@ -1950,7 +1998,7 @@
       "id": "kimi-k3",
       "name": "Kimi K3",
       "page": "https://tecyfy.com/prices/kimi-k3",
-      "status": "current",
+      "status": "older",
       "input": 3,
       "cachedInput": 0.3,
       "cacheWrite": 3,
@@ -1965,7 +2013,7 @@
       "score": 157.4,
       "scoreLow": 155.1,
       "scoreHigh": 160.1,
-      "checked": "2026-10-20",
+      "checked": "2026-10-23",
       "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
@@ -1989,7 +2037,7 @@
       "score": 149.9,
       "scoreLow": 147.9,
       "scoreHigh": 151.7,
-      "checked": "2026-10-20",
+      "checked": "2026-10-23",
       "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
@@ -2013,7 +2061,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-23",
       "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
@@ -2037,7 +2085,7 @@
       "score": 150.9,
       "scoreLow": 149.1,
       "scoreHigh": 152.8,
-      "checked": "2026-10-20",
+      "checked": "2026-10-23",
       "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
