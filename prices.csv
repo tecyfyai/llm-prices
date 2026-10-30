@@ -1,92 +1,93 @@
 maker,makerName,id,name,status,input,cachedInput,cacheWrite,output,batchInput,batchOutput,longAbove,longInput,longOutput,context,maxOutput,score,scoreLow,scoreHigh,checked,source,page
-openai,OpenAI,gpt-6-astra,GPT-6 Astra,current,10,1,12.5,50,5,25,272000,20,75,1050000,128000,166.4,163.4,171.2,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-6-astra
-openai,OpenAI,gpt-6.1-sol,GPT-6.1 Sol,current,2,0.1,2.5,10,1,5,272000,4,15,1050000,128000,166.3,163.2,170.8,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-6-1-sol
-openai,OpenAI,gpt-6-luna,GPT-6 Luna,current,0.1,0.01,0.125,0.5,0.05,0.25,272000,0.2,0.75,1050000,128000,156.3,153.9,158.8,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-6-luna
-openai,OpenAI,gpt-6-sol,GPT-6 Sol,older,2,0.2,2.5,10,1,5,272000,4,15,1050000,128000,162.6,160,165.8,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-6-sol
-openai,OpenAI,gpt-5.6-sol,GPT-5.6 Sol,older,4,0.4,5,20,2,10,272000,8,30,1050000,128000,161.7,159.5,165,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-6-sol
-openai,OpenAI,gpt-5.6-terra,GPT-5.6 Terra,older,2,0.2,2.5,12,1,6,272000,4,18,1050000,128000,159.4,156.8,162.2,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-6-terra
-openai,OpenAI,gpt-5.6-luna,GPT-5.6 Luna,older,0.2,0.02,0.25,1.2,0.1,0.6,272000,0.4,1.8,1050000,128000,156.3,153.9,159,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-6-luna
-openai,OpenAI,gpt-5.5,GPT-5.5,older,5,0.5,,30,2.5,15,272000,10,45,1050000,128000,159,156.4,161.9,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-5
-openai,OpenAI,gpt-5.5-pro,GPT-5.5 pro,older,30,,,180,15,90,272000,60,270,1050000,128000,162,159,165.1,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-5-pro
-openai,OpenAI,gpt-5.4,GPT-5.4,older,2.5,0.25,,15,1.25,7.5,272000,5,22.5,1050000,128000,156.7,155,158.9,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-4
-openai,OpenAI,gpt-5.4-mini,GPT-5.4 mini,older,0.75,0.075,,4.5,0.375,2.25,,,,400000,128000,148.8,147.1,150.5,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-4-mini
-openai,OpenAI,gpt-5.4-nano,GPT-5.4 nano,older,0.2,0.02,,1.25,0.1,0.625,,,,400000,128000,146.1,143.6,148.5,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-4-nano
-openai,OpenAI,gpt-5.4-pro,GPT-5.4 pro,older,30,,,180,15,90,272000,60,270,1050000,128000,159,156.5,161.7,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-4-pro
-openai,OpenAI,gpt-5.2,GPT-5.2,older,1.75,0.175,,14,0.875,7,,,,400000,128000,153.5,151.6,155.3,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-2
-openai,OpenAI,gpt-5.2-pro,GPT-5.2 pro,older,21,,,168,10.5,84,,,,400000,128000,156,153.8,159.6,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-2-pro
-openai,OpenAI,gpt-5.1,GPT-5.1,older,1.25,0.125,,10,0.625,5,,,,400000,128000,149.8,148.5,151.5,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-1
-openai,OpenAI,gpt-5,GPT-5,older,1.25,0.125,,10,0.625,5,,,,400000,128000,150,150,150,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5
-openai,OpenAI,gpt-5-mini,GPT-5 mini,older,0.25,0.025,,2,0.125,1,,,,400000,128000,145.4,143.5,146.9,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-mini
-openai,OpenAI,gpt-5-nano,GPT-5 nano,older,0.05,0.005,,0.4,0.025,0.2,,,,400000,128000,139.3,134.8,141.4,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-nano
-openai,OpenAI,gpt-5-pro,GPT-5 pro,older,15,,,120,7.5,60,,,,400000,272000,150.7,148.9,154,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-pro
-openai,OpenAI,gpt-4.1,GPT-4.1,older,2,0.5,,8,1,4,,,,1047576,32768,136.8,133.7,138.6,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4-1
-openai,OpenAI,gpt-4.1-mini,GPT-4.1 mini,older,0.4,0.1,,1.6,0.2,0.8,,,,1047576,32768,135,131.2,136.7,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4-1-mini
-openai,OpenAI,gpt-4.1-nano,GPT-4.1 nano,older,0.1,0.025,,0.4,0.05,0.2,,,,1047576,32768,129.6,123.5,132.1,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4-1-nano
-openai,OpenAI,gpt-4o,GPT-4o,older,2.5,1.25,,10,1.25,5,,,,128000,16384,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4o
-openai,OpenAI,gpt-4o-2024-05-13,GPT-4o (2024-05-13),older,5,,,15,2.5,7.5,,,,,,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4o-2024-05-13
-openai,OpenAI,gpt-4o-mini,GPT-4o mini,older,0.15,0.075,,0.6,0.075,0.3,,,,128000,16384,126.6,119.5,128.6,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4o-mini
-openai,OpenAI,o1,o1,older,15,7.5,,60,7.5,30,,,,200000,100000,141.8,139.5,142.9,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o1
-openai,OpenAI,o1-pro,o1-pro,older,150,,,600,75,300,,,,200000,100000,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o1-pro
-openai,OpenAI,o3-pro,o3-pro,older,20,,,80,10,40,,,,200000,100000,147.4,145.7,150.2,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o3-pro
-openai,OpenAI,o3,o3,older,2,0.5,,8,1,4,,,,200000,100000,146.9,145,148.7,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o3
-openai,OpenAI,o4-mini,o4-mini,older,1.1,0.275,,4.4,0.55,2.2,,,,200000,100000,145.6,143.3,147.3,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o4-mini
-openai,OpenAI,o3-mini,o3-mini,older,1.1,0.55,,4.4,0.55,2.2,,,,200000,100000,140.3,137.2,141.9,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o3-mini
-openai,OpenAI,gpt-4-turbo-2024-04-09,GPT-4 Turbo (2024-04-09),older,10,,,30,5,15,,,,,,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4-turbo-2024-04-09
-openai,OpenAI,gpt-4-0613,GPT-4 (0613),older,30,,,60,15,30,,,,,,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4-0613
-openai,OpenAI,gpt-3.5-turbo,GPT-3.5 Turbo,older,0.5,,,1.5,,,,,,16385,4096,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-3-5-turbo
-openai,OpenAI,gpt-3.5-turbo-0125,GPT-3.5 Turbo (0125),older,0.5,,,1.5,0.25,0.75,,,,,,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-3-5-turbo-0125
-openai,OpenAI,gpt-3.5-turbo-1106,GPT-3.5 Turbo (1106),older,1,,,2,1,2,,,,,,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-3-5-turbo-1106
-openai,OpenAI,gpt-3.5-turbo-instruct,GPT-3.5 Turbo Instruct,older,1.5,,,2,,,,,,4096,4096,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-3-5-turbo-instruct
-openai,OpenAI,davinci-002,davinci-002,older,2,,,2,1,1,,,,,16384,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/davinci-002
-openai,OpenAI,babbage-002,babbage-002,older,0.4,,,0.4,0.2,0.2,,,,,16384,,,,2026-10-20,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/babbage-002
-anthropic,Anthropic,claude-fable-5-1,Claude Fable 5.1,current,10,0.25,12.5,50,5,25,,,,1000000,128000,164.7,161.9,168.5,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-fable-5-1
-anthropic,Anthropic,claude-mythos-5-1,Claude Mythos 5.1,older,10,0.25,12.5,50,5,25,,,,1000000,128000,,,,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-mythos-5-1
-anthropic,Anthropic,claude-fable-5,Claude Fable 5,older,10,1,12.5,50,5,25,,,,1000000,128000,162.1,159.5,166.3,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-fable-5
-anthropic,Anthropic,claude-mythos-5,Claude Mythos 5,older,10,1,12.5,50,5,25,,,,1000000,128000,,,,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-mythos-5
-anthropic,Anthropic,claude-opus-5-5,Claude Opus 5.5,current,4,0.2,5,20,2,10,,,,1000000,128000,166.8,163.5,171,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-5-5
-anthropic,Anthropic,claude-opus-5,Claude Opus 5,older,5,0.5,6.25,25,2.5,12.5,,,,1000000,128000,162.6,160,165.8,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-5
-anthropic,Anthropic,claude-opus-4-8,Claude Opus 4.8,older,5,0.5,6.25,25,2.5,12.5,,,,1000000,128000,158.3,156.2,160.8,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4-8
-anthropic,Anthropic,claude-opus-4-7,Claude Opus 4.7,older,5,0.5,6.25,25,2.5,12.5,,,,1000000,128000,156.3,154.6,158.5,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4-7
-anthropic,Anthropic,claude-opus-4-6,Claude Opus 4.6,older,5,0.5,6.25,25,2.5,12.5,,,,1000000,128000,155.3,153.6,157.1,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4-6
-anthropic,Anthropic,claude-opus-4-5,Claude Opus 4.5,older,5,0.5,6.25,25,2.5,12.5,,,,200000,64000,150.2,148,152.8,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4-5
-anthropic,Anthropic,claude-opus-4-1,Claude Opus 4.1,retired,15,1.5,18.75,75,7.5,37.5,,,,,,144.1,142,146.1,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4-1
-anthropic,Anthropic,claude-opus-4,Claude Opus 4,retired,15,1.5,18.75,75,7.5,37.5,,,,,,142.7,140.4,144.1,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4
-anthropic,Anthropic,claude-sonnet-5-5,Claude Sonnet 5.5,current,2,0.1,2.5,10,1,5,,,,1000000,128000,164.5,161.4,168.3,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-sonnet-5-5
-anthropic,Anthropic,claude-sonnet-5,Claude Sonnet 5,older,2,0.2,2.5,10,1,5,,,,1000000,128000,156.4,154,158.9,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-sonnet-5
-anthropic,Anthropic,claude-sonnet-4-6,Claude Sonnet 4.6,older,3,0.3,3.75,15,1.5,7.5,,,,1000000,128000,152.4,150,154.7,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-sonnet-4-6
-anthropic,Anthropic,claude-sonnet-4-5,Claude Sonnet 4.5,older,3,0.3,3.75,15,1.5,7.5,,,,200000,64000,146.8,145.2,148.4,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-sonnet-4-5
-anthropic,Anthropic,claude-sonnet-4,Claude Sonnet 4,retired,3,0.3,3.75,15,1.5,7.5,,,,,,141.7,138.7,143.1,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-sonnet-4
-anthropic,Anthropic,claude-haiku-5-5,Claude Haiku 5.5,current,0.1,0.01,0.125,0.5,0.05,0.25,100000,0.5,2.5,1000000,128000,159,156.6,162.1,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-haiku-5-5
-anthropic,Anthropic,claude-haiku-4-5,Claude Haiku 4.5,older,1,0.1,1.25,5,0.5,2.5,,,,200000,64000,142.4,139.3,144.1,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-haiku-4-5
-anthropic,Anthropic,claude-haiku-3-5,Claude Haiku 3.5,retired,0.8,0.08,1,4,0.4,2,,,,,,,,,2026-10-20,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-haiku-3-5
-google,Google,gemini-4-argon,Gemini 4 Argon,current,2,0.1,,10,,,,,,,,164.6,161.7,168.7,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-4-argon
-google,Google,gemini-3.8-flash,Gemini 3.8 Flash,current,0.75,0.075,,3.75,,,,,,1048576,65536,157.2,155,160.5,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-3-8-flash
-google,Google,gemini-3.6-flash,Gemini 3.6 Flash,older,0.75,0.075,,3.75,,,,,,1048576,65536,154.2,152.7,156.1,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-3-6-flash
-google,Google,gemini-3.5-flash-lite,Gemini 3.5 Flash-Lite,current,0.3,0.03,,2.5,,,,,,1048576,65536,145.2,142.7,146.7,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-3-5-flash-lite
+openai,OpenAI,gpt-6-astra,GPT-6 Astra,current,10,1,12.5,50,5,25,272000,20,75,1050000,128000,168.8,165.5,174.5,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-6-astra
+openai,OpenAI,gpt-6.1-sol,GPT-6.1 Sol,current,2,0.1,2.5,10,1,5,272000,4,15,1050000,128000,168.4,165,174.4,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-6-1-sol
+openai,OpenAI,gpt-6.1-terra,GPT-6.1 Terra,current,1,0.05,1.25,5,0.5,2.5,272000,2,7.5,1050000,128000,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-6-1-terra
+openai,OpenAI,gpt-6-luna,GPT-6 Luna,current,0.1,0.01,0.125,0.5,0.05,0.25,272000,0.2,0.75,1050000,128000,156.8,154.3,159.4,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-6-luna
+openai,OpenAI,gpt-6-sol,GPT-6 Sol,older,2,0.2,2.5,10,1,5,272000,4,15,1050000,128000,163.7,160.9,167.4,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-6-sol
+openai,OpenAI,gpt-5.6-sol,GPT-5.6 Sol,older,4,0.4,5,20,2,10,272000,8,30,1050000,128000,162.8,160.2,167.1,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-6-sol
+openai,OpenAI,gpt-5.6-terra,GPT-5.6 Terra,older,2,0.2,2.5,12,1,6,272000,4,18,1050000,128000,160.1,157.3,163.3,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-6-terra
+openai,OpenAI,gpt-5.6-luna,GPT-5.6 Luna,older,0.2,0.02,0.25,1.2,0.1,0.6,272000,0.4,1.8,1050000,128000,156.5,154.2,159.3,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-6-luna
+openai,OpenAI,gpt-5.5,GPT-5.5,older,5,0.5,,30,2.5,15,272000,10,45,1050000,128000,159.7,157.3,163.7,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-5
+openai,OpenAI,gpt-5.5-pro,GPT-5.5 pro,older,30,,,180,15,90,272000,60,270,1050000,128000,162.9,160,166.6,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-5-pro
+openai,OpenAI,gpt-5.4,GPT-5.4,older,2.5,0.25,,15,1.25,7.5,272000,5,22.5,1050000,128000,157.3,155.4,159.8,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-4
+openai,OpenAI,gpt-5.4-pro,GPT-5.4 pro,older,30,,,180,15,90,272000,60,270,1050000,128000,159.6,157.1,162.7,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-4-pro
+openai,OpenAI,gpt-5.4-mini,GPT-5.4 mini,older,0.75,0.075,,4.5,0.375,2.25,,,,400000,128000,148.7,146.9,150.5,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-4-mini
+openai,OpenAI,gpt-5.4-nano,GPT-5.4 nano,older,0.2,0.02,,1.25,0.1,0.625,,,,400000,128000,146,143.6,148.2,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-4-nano
+openai,OpenAI,gpt-5.2,GPT-5.2,older,1.75,0.175,,14,0.875,7,,,,400000,128000,153.7,152.1,155.4,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-2
+openai,OpenAI,gpt-5.2-pro,GPT-5.2 pro,older,21,,,168,10.5,84,,,,400000,128000,156.3,153.9,160,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-2-pro
+openai,OpenAI,gpt-5.1,GPT-5.1,older,1.25,0.125,,10,0.625,5,,,,400000,128000,149.8,148.4,151.7,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-1
+openai,OpenAI,gpt-5,GPT-5,older,1.25,0.125,,10,0.625,5,,,,400000,128000,150,150,150,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5
+openai,OpenAI,gpt-5-mini,GPT-5 mini,older,0.25,0.025,,2,0.125,1,,,,400000,128000,145.3,143.3,147.1,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-mini
+openai,OpenAI,gpt-5-nano,GPT-5 nano,older,0.05,0.005,,0.4,0.025,0.2,,,,400000,128000,139.2,134.1,141.2,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-nano
+openai,OpenAI,gpt-5-pro,GPT-5 pro,older,15,,,120,7.5,60,,,,400000,272000,150.6,148.9,154.2,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-5-pro
+openai,OpenAI,gpt-4.1,GPT-4.1,older,2,0.5,,8,1,4,,,,1047576,32768,136.7,133.6,138.3,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4-1
+openai,OpenAI,gpt-4.1-mini,GPT-4.1 mini,older,0.4,0.1,,1.6,0.2,0.8,,,,1047576,32768,134.9,131,136.5,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4-1-mini
+openai,OpenAI,gpt-4.1-nano,GPT-4.1 nano,older,0.1,0.025,,0.4,0.05,0.2,,,,1047576,32768,129.5,123.3,131.8,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4-1-nano
+openai,OpenAI,gpt-4o,GPT-4o,older,2.5,1.25,,10,1.25,5,,,,128000,16384,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4o
+openai,OpenAI,gpt-4o-2024-05-13,GPT-4o (2024-05-13),older,5,,,15,2.5,7.5,,,,,,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4o-2024-05-13
+openai,OpenAI,gpt-4o-mini,GPT-4o mini,older,0.15,0.075,,0.6,0.075,0.3,,,,128000,16384,126.5,120.1,128.5,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4o-mini
+openai,OpenAI,o1,o1,older,15,7.5,,60,7.5,30,,,,200000,100000,141.7,139.7,142.9,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o1
+openai,OpenAI,o1-pro,o1-pro,older,150,,,600,75,300,,,,200000,100000,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o1-pro
+openai,OpenAI,o3-pro,o3-pro,older,20,,,80,10,40,,,,200000,100000,147.3,145.6,150.1,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o3-pro
+openai,OpenAI,o3,o3,older,2,0.5,,8,1,4,,,,200000,100000,146.7,144.8,148.5,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o3
+openai,OpenAI,o4-mini,o4-mini,older,1.1,0.275,,4.4,0.55,2.2,,,,200000,100000,145.5,142.9,147.2,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o4-mini
+openai,OpenAI,o3-mini,o3-mini,older,1.1,0.55,,4.4,0.55,2.2,,,,200000,100000,140.2,137,141.8,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/o3-mini
+openai,OpenAI,gpt-4-turbo-2024-04-09,GPT-4 Turbo (2024-04-09),older,10,,,30,5,15,,,,,,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4-turbo-2024-04-09
+openai,OpenAI,gpt-4-0613,GPT-4 (0613),older,30,,,60,15,30,,,,,,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-4-0613
+openai,OpenAI,gpt-3.5-turbo,GPT-3.5 Turbo,older,0.5,,,1.5,,,,,,16385,4096,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-3-5-turbo
+openai,OpenAI,gpt-3.5-turbo-0125,GPT-3.5 Turbo (0125),older,0.5,,,1.5,0.25,0.75,,,,,,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-3-5-turbo-0125
+openai,OpenAI,gpt-3.5-turbo-1106,GPT-3.5 Turbo (1106),retired,1,,,2,1,2,,,,,,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-3-5-turbo-1106
+openai,OpenAI,gpt-3.5-turbo-instruct,GPT-3.5 Turbo Instruct,retired,1.5,,,2,,,,,,4096,4096,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/gpt-3-5-turbo-instruct
+openai,OpenAI,davinci-002,davinci-002,retired,2,,,2,1,1,,,,,16384,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/davinci-002
+openai,OpenAI,babbage-002,babbage-002,retired,0.4,,,0.4,0.2,0.2,,,,,16384,,,,2026-10-28,https://developers.openai.com/api/docs/pricing,https://tecyfy.com/prices/babbage-002
+anthropic,Anthropic,claude-fable-5-1,Claude Fable 5.1,current,10,0.25,12.5,50,5,25,,,,1000000,128000,166.5,163.5,171.4,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-fable-5-1
+anthropic,Anthropic,claude-mythos-5-1,Claude Mythos 5.1,older,10,0.25,12.5,50,5,25,,,,1000000,128000,,,,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-mythos-5-1
+anthropic,Anthropic,claude-fable-5,Claude Fable 5,older,10,1,12.5,50,5,25,,,,1000000,128000,163.4,160.5,168.2,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-fable-5
+anthropic,Anthropic,claude-mythos-5,Claude Mythos 5,older,10,1,12.5,50,5,25,,,,1000000,128000,,,,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-mythos-5
+anthropic,Anthropic,claude-opus-5-5,Claude Opus 5.5,current,4,0.2,5,20,2,10,,,,1000000,128000,168.8,165.3,174,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-5-5
+anthropic,Anthropic,claude-opus-5,Claude Opus 5,older,5,0.5,6.25,25,2.5,12.5,,,,1000000,128000,163.9,161.1,168.2,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-5
+anthropic,Anthropic,claude-opus-4-8,Claude Opus 4.8,older,5,0.5,6.25,25,2.5,12.5,,,,1000000,128000,159,156.9,162,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4-8
+anthropic,Anthropic,claude-opus-4-7,Claude Opus 4.7,older,5,0.5,6.25,25,2.5,12.5,,,,1000000,128000,156.8,154.9,159.2,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4-7
+anthropic,Anthropic,claude-opus-4-6,Claude Opus 4.6,older,5,0.5,6.25,25,2.5,12.5,,,,1000000,128000,155.7,153.8,158.1,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4-6
+anthropic,Anthropic,claude-opus-4-5,Claude Opus 4.5,older,5,0.5,6.25,25,2.5,12.5,,,,200000,64000,150.1,147.8,153,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4-5
+anthropic,Anthropic,claude-opus-4-1,Claude Opus 4.1,retired,15,1.5,18.75,75,7.5,37.5,,,,,,144.1,141.8,146.6,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4-1
+anthropic,Anthropic,claude-opus-4,Claude Opus 4,retired,15,1.5,18.75,75,7.5,37.5,,,,,,142.5,140.3,144.3,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-opus-4
+anthropic,Anthropic,claude-sonnet-5-5,Claude Sonnet 5.5,current,2,0.1,2.5,10,1,5,,,,1000000,128000,166.2,163.1,171.3,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-sonnet-5-5
+anthropic,Anthropic,claude-sonnet-5,Claude Sonnet 5,older,2,0.2,2.5,10,1,5,,,,1000000,128000,156.9,154.1,159.7,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-sonnet-5
+anthropic,Anthropic,claude-sonnet-4-6,Claude Sonnet 4.6,older,3,0.3,3.75,15,1.5,7.5,,,,1000000,128000,152.8,150.2,155.1,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-sonnet-4-6
+anthropic,Anthropic,claude-sonnet-4-5,Claude Sonnet 4.5,older,3,0.3,3.75,15,1.5,7.5,,,,200000,64000,146.7,145,148.3,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-sonnet-4-5
+anthropic,Anthropic,claude-sonnet-4,Claude Sonnet 4,retired,3,0.3,3.75,15,1.5,7.5,,,,,,141.6,139,143.1,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-sonnet-4
+anthropic,Anthropic,claude-haiku-5-5,Claude Haiku 5.5,current,0.1,0.01,0.125,0.5,0.05,0.25,100000,0.5,2.5,1000000,128000,159.3,156.2,162.5,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-haiku-5-5
+anthropic,Anthropic,claude-haiku-4-5,Claude Haiku 4.5,older,1,0.1,1.25,5,0.5,2.5,,,,200000,64000,142.2,139.4,144.1,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-haiku-4-5
+anthropic,Anthropic,claude-haiku-3-5,Claude Haiku 3.5,retired,0.8,0.08,1,4,0.4,2,,,,,,,,,2026-10-28,https://platform.claude.com/docs/en/about-claude/pricing,https://tecyfy.com/prices/claude-haiku-3-5
+google,Google,gemini-4-argon,Gemini 4 Argon,current,2,0.1,,10,,,,,,,,166.5,163.2,171.5,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-4-argon
+google,Google,gemini-3.8-flash,Gemini 3.8 Flash,current,0.75,0.075,,3.75,,,,,,1048576,65536,157.4,155.1,161.1,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-3-8-flash
+google,Google,gemini-3.6-flash,Gemini 3.6 Flash,older,0.75,0.075,,3.75,,,,,,1048576,65536,154.5,152.9,156.6,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-3-6-flash
+google,Google,gemini-3.5-flash-lite,Gemini 3.5 Flash-Lite,current,0.3,0.03,,2.5,,,,,,1048576,65536,144.9,142.4,146.3,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-3-5-flash-lite
 google,Google,gemini-3.1-pro-preview,Gemini 3.1 Pro Preview,older,2,0.2,,12,,,200000,4,18,1048576,65536,,,,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-3-1-pro-preview
-google,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,older,0.25,0.025,,1.5,,,,,,1048576,65536,144.5,142.3,146,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-3-1-flash-lite
+google,Google,gemini-3.1-flash-lite,Gemini 3.1 Flash-Lite,older,0.25,0.025,,1.5,,,,,,1048576,65536,144.3,142.3,145.7,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-3-1-flash-lite
 google,Google,gemini-3-flash-preview,Gemini 3 Flash Preview,older,0.5,0.05,,3,,,,,,1048576,65536,,,,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-3-flash-preview
 google,Google,gemini-2.5-pro,Gemini 2.5 Pro,older,1.25,0.125,,10,,,200000,2.5,15,1048576,65536,,,,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-2-5-pro
 google,Google,gemini-2.5-flash,Gemini 2.5 Flash,older,0.3,0.03,,2.5,,,,,,1048576,65536,,,,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-2-5-flash
 google,Google,gemini-2.5-flash-lite,Gemini 2.5 Flash-Lite,older,0.1,0.01,,0.4,,,,,,1048576,65536,,,,2026-10-14,https://ai.google.dev/gemini-api/docs/pricing,https://tecyfy.com/prices/gemini-2-5-flash-lite
-xai,xAI,grok-4.7,Grok 4.7,current,2,0.5,,6,,,200000,4,12,500000,,154.4,152.7,156.5,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-7
-xai,xAI,grok-4.6,Grok 4.6,older,2,0.5,,6,,,200000,4,12,500000,,156.3,154.5,158.7,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-6
-xai,xAI,grok-4.5,Grok 4.5,older,2,0.3,,6,,,200000,4,12,500000,,153.9,152.5,155.9,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-5
-xai,xAI,grok-4.3,Grok 4.3,older,1.25,0.2,,2.5,,,200000,2.5,5,1000000,,,,,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-3
-xai,xAI,grok-4.20-0309-reasoning,Grok 4.20 (reasoning),older,1.25,0.2,,2.5,,,200000,2.5,5,1000000,,,,,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-20-0309-reasoning
-xai,xAI,grok-4.20-0309-non-reasoning,Grok 4.20 (non-reasoning),older,1.25,0.2,,2.5,,,200000,2.5,5,1000000,,,,,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-20-0309-non-reasoning
-xai,xAI,grok-build-0.1,Grok Build 0.1,older,1,0.2,,2,,,200000,2,4,256000,,,,,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-build-0-1
-xai,xAI,grok-4.20-multi-agent-0309,Grok 4.20 Multi-agent,older,1.25,0.2,,2.5,,,200000,2.5,5,1000000,,,,,2026-10-20,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-20-multi-agent-0309
-deepseek,DeepSeek,deepseek-v4-pro,DeepSeek V4 Pro,current,1.32,0.044,,3.96,,,,,,1000000,,155.3,153.5,157.6,2026-10-22,https://api-docs.deepseek.com/quick_start/pricing,https://tecyfy.com/prices/deepseek-v4-pro
-deepseek,DeepSeek,deepseek-flash,DeepSeek V4.1 Flash,current,0.3,0.006,,1.2,,,,,,1000000,,155.6,153.5,157.6,2026-10-22,https://api-docs.deepseek.com/quick_start/pricing,https://tecyfy.com/prices/deepseek-flash
-kimi,Moonshot AI,kimi-k3.1-pro,Kimi K3.1 Pro,current,2,0.2,2,10,,,,,,1048576,,,,,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k3-1-pro
-kimi,Moonshot AI,kimi-k3.1-pro-highspeed,Kimi K3.1 Pro Highspeed,older,4,0.2,4,20,,,,,,1048576,,,,,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k3-1-pro-highspeed
-kimi,Moonshot AI,kimi-k3,Kimi K3,older,3,0.3,3,15,,,,,,1048576,,157.4,155.1,160.1,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k3
-kimi,Moonshot AI,kimi-k2.7-code,Kimi K2.7 Code,older,0.95,0.19,,4,,,,,,262144,,149.9,147.9,151.7,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-7-code
-kimi,Moonshot AI,kimi-k2.7-code-highspeed,Kimi K2.7 Code Highspeed,older,1.9,0.38,,8,,,,,,262144,,,,,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-7-code-highspeed
-kimi,Moonshot AI,kimi-k2.6,Kimi K2.6,older,0.95,0.16,,4,,,,,,262144,,150.9,149.1,152.8,2026-10-23,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-6
-qwen,Alibaba,qwen3.8-max,Qwen3.8-Max,current,2,0.25,,6,,,,,,,,156.9,155.1,159.1,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-8-max
+xai,xAI,grok-4.7,Grok 4.7,current,2,0.5,,6,,,200000,4,12,500000,,154.4,152.6,157.1,2026-10-28,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-7
+xai,xAI,grok-4.6,Grok 4.6,older,2,0.5,,6,,,200000,4,12,500000,,156.6,154.7,159.2,2026-10-28,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-6
+xai,xAI,grok-4.5,Grok 4.5,older,2,0.3,,6,,,200000,4,12,500000,,154.1,152.4,156.2,2026-10-28,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-5
+xai,xAI,grok-4.3,Grok 4.3,older,1.25,0.2,,2.5,,,200000,2.5,5,1000000,,,,,2026-10-28,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-3
+xai,xAI,grok-4.20-0309-reasoning,Grok 4.20 (reasoning),older,1.25,0.2,,2.5,,,200000,2.5,5,1000000,,,,,2026-10-28,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-20-0309-reasoning
+xai,xAI,grok-4.20-0309-non-reasoning,Grok 4.20 (non-reasoning),older,1.25,0.2,,2.5,,,200000,2.5,5,1000000,,,,,2026-10-28,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-20-0309-non-reasoning
+xai,xAI,grok-build-0.1,Grok Build 0.1,older,1,0.2,,2,,,200000,2,4,256000,,,,,2026-10-28,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-build-0-1
+xai,xAI,grok-4.20-multi-agent-0309,Grok 4.20 Multi-agent,older,1.25,0.2,,2.5,,,200000,2.5,5,1000000,,,,,2026-10-28,https://docs.x.ai/docs/models,https://tecyfy.com/prices/grok-4-20-multi-agent-0309
+deepseek,DeepSeek,deepseek-v4-pro,DeepSeek V4 Pro,current,1.32,0.044,,3.96,,,,,,1000000,,155.6,153.7,158,2026-10-22,https://api-docs.deepseek.com/quick_start/pricing,https://tecyfy.com/prices/deepseek-v4-pro
+deepseek,DeepSeek,deepseek-flash,DeepSeek V4.1 Flash,current,0.3,0.006,,1.2,,,,,,1000000,,155.9,153.7,158.6,2026-10-22,https://api-docs.deepseek.com/quick_start/pricing,https://tecyfy.com/prices/deepseek-flash
+kimi,Moonshot AI,kimi-k3.1-pro,Kimi K3.1 Pro,current,2,0.2,2,10,,,,,,1048576,,,,,2026-10-28,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k3-1-pro
+kimi,Moonshot AI,kimi-k3.1-pro-highspeed,Kimi K3.1 Pro Highspeed,older,4,0.2,4,20,,,,,,1048576,,,,,2026-10-28,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k3-1-pro-highspeed
+kimi,Moonshot AI,kimi-k3,Kimi K3,older,3,0.3,3,15,,,,,,1048576,,157.9,155.1,160.6,2026-10-28,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k3
+kimi,Moonshot AI,kimi-k2.7-code,Kimi K2.7 Code,older,0.95,0.19,,4,,,,,,262144,,150.1,148.2,151.8,2026-10-28,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-7-code
+kimi,Moonshot AI,kimi-k2.7-code-highspeed,Kimi K2.7 Code Highspeed,older,1.9,0.38,,8,,,,,,262144,,,,,2026-10-28,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-7-code-highspeed
+kimi,Moonshot AI,kimi-k2.6,Kimi K2.6,older,0.95,0.16,,4,,,,,,262144,,150.9,149,152.7,2026-10-28,https://platform.kimi.ai/docs/pricing/chat,https://tecyfy.com/prices/kimi-k2-6
+qwen,Alibaba,qwen3.8-max,Qwen3.8-Max,current,2,0.25,,6,,,,,,,,157.4,155.3,160.3,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-8-max
 qwen,Alibaba,qwen3.8-flash,Qwen3.8-Flash,current,0.15,0.016,,0.47,,,,,,,,,,,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-8-flash
-qwen,Alibaba,qwen3.7-max,Qwen3.7-Max,older,2.5,0.5,,7.5,,,,,,,,153.8,152,156.2,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-7-max
-qwen,Alibaba,qwen3.7-plus,Qwen3.7-Plus,older,0.32,0.064,,1.28,,,256000,0.96,3.84,,,147.3,145.6,148.8,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-7-plus
-qwen,Alibaba,qwen3.7-flash,Qwen3.7-Flash,older,0.03,0.006,,0.13,,,32000,0.1,0.4,,,144.6,142.6,147.2,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-7-flash
+qwen,Alibaba,qwen3.7-max,Qwen3.7-Max,older,2.5,0.5,,7.5,,,,,,,,154,152.3,156.5,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-7-max
+qwen,Alibaba,qwen3.7-plus,Qwen3.7-Plus,older,0.32,0.064,,1.28,,,256000,0.96,3.84,,,147,145.3,148.8,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-7-plus
+qwen,Alibaba,qwen3.7-flash,Qwen3.7-Flash,older,0.03,0.006,,0.13,,,32000,0.1,0.4,,,144.1,141.9,145.9,2026-10-14,https://www.qwencloud.com/pricing/api,https://tecyfy.com/prices/qwen3-7-flash

@@ -11,7 +11,7 @@
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "Tecyfy, https://tecyfy.com/prices"
   },
-  "updated": "2026-10-23",
+  "updated": "2026-10-28",
   "units": "US dollars per million tokens; context, maxOutput and longAbove in tokens",
   "scores": {
     "name": "Epoch Capabilities Index",
@@ -42,10 +42,10 @@
       "longOutput": 75,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 166.4,
-      "scoreLow": 163.4,
-      "scoreHigh": 171.2,
-      "checked": "2026-10-20",
+      "score": 168.8,
+      "scoreLow": 165.5,
+      "scoreHigh": 174.5,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -66,10 +66,34 @@
       "longOutput": 15,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 166.3,
-      "scoreLow": 163.2,
-      "scoreHigh": 170.8,
-      "checked": "2026-10-20",
+      "score": 168.4,
+      "scoreLow": 165,
+      "scoreHigh": 174.4,
+      "checked": "2026-10-28",
+      "source": "https://developers.openai.com/api/docs/pricing"
+    },
+    {
+      "maker": "openai",
+      "makerName": "OpenAI",
+      "id": "gpt-6.1-terra",
+      "name": "GPT-6.1 Terra",
+      "page": "https://tecyfy.com/prices/gpt-6-1-terra",
+      "status": "current",
+      "input": 1,
+      "cachedInput": 0.05,
+      "cacheWrite": 1.25,
+      "output": 5,
+      "batchInput": 0.5,
+      "batchOutput": 2.5,
+      "longAbove": 272000,
+      "longInput": 2,
+      "longOutput": 7.5,
+      "context": 1050000,
+      "maxOutput": 128000,
+      "score": null,
+      "scoreLow": null,
+      "scoreHigh": null,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -90,10 +114,10 @@
       "longOutput": 0.75,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 156.3,
-      "scoreLow": 153.9,
-      "scoreHigh": 158.8,
-      "checked": "2026-10-20",
+      "score": 156.8,
+      "scoreLow": 154.3,
+      "scoreHigh": 159.4,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -114,10 +138,10 @@
       "longOutput": 15,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 162.6,
-      "scoreLow": 160,
-      "scoreHigh": 165.8,
-      "checked": "2026-10-20",
+      "score": 163.7,
+      "scoreLow": 160.9,
+      "scoreHigh": 167.4,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -138,10 +162,10 @@
       "longOutput": 30,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 161.7,
-      "scoreLow": 159.5,
-      "scoreHigh": 165,
-      "checked": "2026-10-20",
+      "score": 162.8,
+      "scoreLow": 160.2,
+      "scoreHigh": 167.1,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -162,10 +186,10 @@
       "longOutput": 18,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 159.4,
-      "scoreLow": 156.8,
-      "scoreHigh": 162.2,
-      "checked": "2026-10-20",
+      "score": 160.1,
+      "scoreLow": 157.3,
+      "scoreHigh": 163.3,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -186,10 +210,10 @@
       "longOutput": 1.8,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 156.3,
-      "scoreLow": 153.9,
-      "scoreHigh": 159,
-      "checked": "2026-10-20",
+      "score": 156.5,
+      "scoreLow": 154.2,
+      "scoreHigh": 159.3,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -210,10 +234,10 @@
       "longOutput": 45,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 159,
-      "scoreLow": 156.4,
-      "scoreHigh": 161.9,
-      "checked": "2026-10-20",
+      "score": 159.7,
+      "scoreLow": 157.3,
+      "scoreHigh": 163.7,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -234,10 +258,10 @@
       "longOutput": 270,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 162,
-      "scoreLow": 159,
-      "scoreHigh": 165.1,
-      "checked": "2026-10-20",
+      "score": 162.9,
+      "scoreLow": 160,
+      "scoreHigh": 166.6,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -258,58 +282,10 @@
       "longOutput": 22.5,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 156.7,
-      "scoreLow": 155,
-      "scoreHigh": 158.9,
-      "checked": "2026-10-20",
-      "source": "https://developers.openai.com/api/docs/pricing"
-    },
-    {
-      "maker": "openai",
-      "makerName": "OpenAI",
-      "id": "gpt-5.4-mini",
-      "name": "GPT-5.4 mini",
-      "page": "https://tecyfy.com/prices/gpt-5-4-mini",
-      "status": "older",
-      "input": 0.75,
-      "cachedInput": 0.075,
-      "cacheWrite": null,
-      "output": 4.5,
-      "batchInput": 0.375,
-      "batchOutput": 2.25,
-      "longAbove": null,
-      "longInput": null,
-      "longOutput": null,
-      "context": 400000,
-      "maxOutput": 128000,
-      "score": 148.8,
-      "scoreLow": 147.1,
-      "scoreHigh": 150.5,
-      "checked": "2026-10-20",
-      "source": "https://developers.openai.com/api/docs/pricing"
-    },
-    {
-      "maker": "openai",
-      "makerName": "OpenAI",
-      "id": "gpt-5.4-nano",
-      "name": "GPT-5.4 nano",
-      "page": "https://tecyfy.com/prices/gpt-5-4-nano",
-      "status": "older",
-      "input": 0.2,
-      "cachedInput": 0.02,
-      "cacheWrite": null,
-      "output": 1.25,
-      "batchInput": 0.1,
-      "batchOutput": 0.625,
-      "longAbove": null,
-      "longInput": null,
-      "longOutput": null,
-      "context": 400000,
-      "maxOutput": 128000,
-      "score": 146.1,
-      "scoreLow": 143.6,
-      "scoreHigh": 148.5,
-      "checked": "2026-10-20",
+      "score": 157.3,
+      "scoreLow": 155.4,
+      "scoreHigh": 159.8,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -330,10 +306,58 @@
       "longOutput": 270,
       "context": 1050000,
       "maxOutput": 128000,
-      "score": 159,
-      "scoreLow": 156.5,
-      "scoreHigh": 161.7,
-      "checked": "2026-10-20",
+      "score": 159.6,
+      "scoreLow": 157.1,
+      "scoreHigh": 162.7,
+      "checked": "2026-10-28",
+      "source": "https://developers.openai.com/api/docs/pricing"
+    },
+    {
+      "maker": "openai",
+      "makerName": "OpenAI",
+      "id": "gpt-5.4-mini",
+      "name": "GPT-5.4 mini",
+      "page": "https://tecyfy.com/prices/gpt-5-4-mini",
+      "status": "older",
+      "input": 0.75,
+      "cachedInput": 0.075,
+      "cacheWrite": null,
+      "output": 4.5,
+      "batchInput": 0.375,
+      "batchOutput": 2.25,
+      "longAbove": null,
+      "longInput": null,
+      "longOutput": null,
+      "context": 400000,
+      "maxOutput": 128000,
+      "score": 148.7,
+      "scoreLow": 146.9,
+      "scoreHigh": 150.5,
+      "checked": "2026-10-28",
+      "source": "https://developers.openai.com/api/docs/pricing"
+    },
+    {
+      "maker": "openai",
+      "makerName": "OpenAI",
+      "id": "gpt-5.4-nano",
+      "name": "GPT-5.4 nano",
+      "page": "https://tecyfy.com/prices/gpt-5-4-nano",
+      "status": "older",
+      "input": 0.2,
+      "cachedInput": 0.02,
+      "cacheWrite": null,
+      "output": 1.25,
+      "batchInput": 0.1,
+      "batchOutput": 0.625,
+      "longAbove": null,
+      "longInput": null,
+      "longOutput": null,
+      "context": 400000,
+      "maxOutput": 128000,
+      "score": 146,
+      "scoreLow": 143.6,
+      "scoreHigh": 148.2,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -354,10 +378,10 @@
       "longOutput": null,
       "context": 400000,
       "maxOutput": 128000,
-      "score": 153.5,
-      "scoreLow": 151.6,
-      "scoreHigh": 155.3,
-      "checked": "2026-10-20",
+      "score": 153.7,
+      "scoreLow": 152.1,
+      "scoreHigh": 155.4,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -378,10 +402,10 @@
       "longOutput": null,
       "context": 400000,
       "maxOutput": 128000,
-      "score": 156,
-      "scoreLow": 153.8,
-      "scoreHigh": 159.6,
-      "checked": "2026-10-20",
+      "score": 156.3,
+      "scoreLow": 153.9,
+      "scoreHigh": 160,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -403,9 +427,9 @@
       "context": 400000,
       "maxOutput": 128000,
       "score": 149.8,
-      "scoreLow": 148.5,
-      "scoreHigh": 151.5,
-      "checked": "2026-10-20",
+      "scoreLow": 148.4,
+      "scoreHigh": 151.7,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -429,7 +453,7 @@
       "score": 150,
       "scoreLow": 150,
       "scoreHigh": 150,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -450,10 +474,10 @@
       "longOutput": null,
       "context": 400000,
       "maxOutput": 128000,
-      "score": 145.4,
-      "scoreLow": 143.5,
-      "scoreHigh": 146.9,
-      "checked": "2026-10-20",
+      "score": 145.3,
+      "scoreLow": 143.3,
+      "scoreHigh": 147.1,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -474,10 +498,10 @@
       "longOutput": null,
       "context": 400000,
       "maxOutput": 128000,
-      "score": 139.3,
-      "scoreLow": 134.8,
-      "scoreHigh": 141.4,
-      "checked": "2026-10-20",
+      "score": 139.2,
+      "scoreLow": 134.1,
+      "scoreHigh": 141.2,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -498,10 +522,10 @@
       "longOutput": null,
       "context": 400000,
       "maxOutput": 272000,
-      "score": 150.7,
+      "score": 150.6,
       "scoreLow": 148.9,
-      "scoreHigh": 154,
-      "checked": "2026-10-20",
+      "scoreHigh": 154.2,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -522,10 +546,10 @@
       "longOutput": null,
       "context": 1047576,
       "maxOutput": 32768,
-      "score": 136.8,
-      "scoreLow": 133.7,
-      "scoreHigh": 138.6,
-      "checked": "2026-10-20",
+      "score": 136.7,
+      "scoreLow": 133.6,
+      "scoreHigh": 138.3,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -546,10 +570,10 @@
       "longOutput": null,
       "context": 1047576,
       "maxOutput": 32768,
-      "score": 135,
-      "scoreLow": 131.2,
-      "scoreHigh": 136.7,
-      "checked": "2026-10-20",
+      "score": 134.9,
+      "scoreLow": 131,
+      "scoreHigh": 136.5,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -570,10 +594,10 @@
       "longOutput": null,
       "context": 1047576,
       "maxOutput": 32768,
-      "score": 129.6,
-      "scoreLow": 123.5,
-      "scoreHigh": 132.1,
-      "checked": "2026-10-20",
+      "score": 129.5,
+      "scoreLow": 123.3,
+      "scoreHigh": 131.8,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -597,7 +621,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -621,7 +645,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -642,10 +666,10 @@
       "longOutput": null,
       "context": 128000,
       "maxOutput": 16384,
-      "score": 126.6,
-      "scoreLow": 119.5,
-      "scoreHigh": 128.6,
-      "checked": "2026-10-20",
+      "score": 126.5,
+      "scoreLow": 120.1,
+      "scoreHigh": 128.5,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -666,10 +690,10 @@
       "longOutput": null,
       "context": 200000,
       "maxOutput": 100000,
-      "score": 141.8,
-      "scoreLow": 139.5,
+      "score": 141.7,
+      "scoreLow": 139.7,
       "scoreHigh": 142.9,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -693,7 +717,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -714,10 +738,10 @@
       "longOutput": null,
       "context": 200000,
       "maxOutput": 100000,
-      "score": 147.4,
-      "scoreLow": 145.7,
-      "scoreHigh": 150.2,
-      "checked": "2026-10-20",
+      "score": 147.3,
+      "scoreLow": 145.6,
+      "scoreHigh": 150.1,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -738,10 +762,10 @@
       "longOutput": null,
       "context": 200000,
       "maxOutput": 100000,
-      "score": 146.9,
-      "scoreLow": 145,
-      "scoreHigh": 148.7,
-      "checked": "2026-10-20",
+      "score": 146.7,
+      "scoreLow": 144.8,
+      "scoreHigh": 148.5,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -762,10 +786,10 @@
       "longOutput": null,
       "context": 200000,
       "maxOutput": 100000,
-      "score": 145.6,
-      "scoreLow": 143.3,
-      "scoreHigh": 147.3,
-      "checked": "2026-10-20",
+      "score": 145.5,
+      "scoreLow": 142.9,
+      "scoreHigh": 147.2,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -786,10 +810,10 @@
       "longOutput": null,
       "context": 200000,
       "maxOutput": 100000,
-      "score": 140.3,
-      "scoreLow": 137.2,
-      "scoreHigh": 141.9,
-      "checked": "2026-10-20",
+      "score": 140.2,
+      "scoreLow": 137,
+      "scoreHigh": 141.8,
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -813,7 +837,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -837,7 +861,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -861,7 +885,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -885,7 +909,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -894,7 +918,7 @@
       "id": "gpt-3.5-turbo-1106",
       "name": "GPT-3.5 Turbo (1106)",
       "page": "https://tecyfy.com/prices/gpt-3-5-turbo-1106",
-      "status": "older",
+      "status": "retired",
       "input": 1,
       "cachedInput": null,
       "cacheWrite": null,
@@ -909,7 +933,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -918,7 +942,7 @@
       "id": "gpt-3.5-turbo-instruct",
       "name": "GPT-3.5 Turbo Instruct",
       "page": "https://tecyfy.com/prices/gpt-3-5-turbo-instruct",
-      "status": "older",
+      "status": "retired",
       "input": 1.5,
       "cachedInput": null,
       "cacheWrite": null,
@@ -933,7 +957,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -942,7 +966,7 @@
       "id": "davinci-002",
       "name": "davinci-002",
       "page": "https://tecyfy.com/prices/davinci-002",
-      "status": "older",
+      "status": "retired",
       "input": 2,
       "cachedInput": null,
       "cacheWrite": null,
@@ -957,7 +981,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -966,7 +990,7 @@
       "id": "babbage-002",
       "name": "babbage-002",
       "page": "https://tecyfy.com/prices/babbage-002",
-      "status": "older",
+      "status": "retired",
       "input": 0.4,
       "cachedInput": null,
       "cacheWrite": null,
@@ -981,7 +1005,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://developers.openai.com/api/docs/pricing"
     },
     {
@@ -1002,10 +1026,10 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 164.7,
-      "scoreLow": 161.9,
-      "scoreHigh": 168.5,
-      "checked": "2026-10-20",
+      "score": 166.5,
+      "scoreLow": 163.5,
+      "scoreHigh": 171.4,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1029,7 +1053,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1050,10 +1074,10 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 162.1,
-      "scoreLow": 159.5,
-      "scoreHigh": 166.3,
-      "checked": "2026-10-20",
+      "score": 163.4,
+      "scoreLow": 160.5,
+      "scoreHigh": 168.2,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1077,7 +1101,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1098,10 +1122,10 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 166.8,
-      "scoreLow": 163.5,
-      "scoreHigh": 171,
-      "checked": "2026-10-20",
+      "score": 168.8,
+      "scoreLow": 165.3,
+      "scoreHigh": 174,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1122,10 +1146,10 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 162.6,
-      "scoreLow": 160,
-      "scoreHigh": 165.8,
-      "checked": "2026-10-20",
+      "score": 163.9,
+      "scoreLow": 161.1,
+      "scoreHigh": 168.2,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1146,10 +1170,10 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 158.3,
-      "scoreLow": 156.2,
-      "scoreHigh": 160.8,
-      "checked": "2026-10-20",
+      "score": 159,
+      "scoreLow": 156.9,
+      "scoreHigh": 162,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1170,10 +1194,10 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 156.3,
-      "scoreLow": 154.6,
-      "scoreHigh": 158.5,
-      "checked": "2026-10-20",
+      "score": 156.8,
+      "scoreLow": 154.9,
+      "scoreHigh": 159.2,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1194,10 +1218,10 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 155.3,
-      "scoreLow": 153.6,
-      "scoreHigh": 157.1,
-      "checked": "2026-10-20",
+      "score": 155.7,
+      "scoreLow": 153.8,
+      "scoreHigh": 158.1,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1218,10 +1242,10 @@
       "longOutput": null,
       "context": 200000,
       "maxOutput": 64000,
-      "score": 150.2,
-      "scoreLow": 148,
-      "scoreHigh": 152.8,
-      "checked": "2026-10-20",
+      "score": 150.1,
+      "scoreLow": 147.8,
+      "scoreHigh": 153,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1243,9 +1267,9 @@
       "context": null,
       "maxOutput": null,
       "score": 144.1,
-      "scoreLow": 142,
-      "scoreHigh": 146.1,
-      "checked": "2026-10-20",
+      "scoreLow": 141.8,
+      "scoreHigh": 146.6,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1266,10 +1290,10 @@
       "longOutput": null,
       "context": null,
       "maxOutput": null,
-      "score": 142.7,
-      "scoreLow": 140.4,
-      "scoreHigh": 144.1,
-      "checked": "2026-10-20",
+      "score": 142.5,
+      "scoreLow": 140.3,
+      "scoreHigh": 144.3,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1290,10 +1314,10 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 164.5,
-      "scoreLow": 161.4,
-      "scoreHigh": 168.3,
-      "checked": "2026-10-20",
+      "score": 166.2,
+      "scoreLow": 163.1,
+      "scoreHigh": 171.3,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1314,10 +1338,10 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 156.4,
-      "scoreLow": 154,
-      "scoreHigh": 158.9,
-      "checked": "2026-10-20",
+      "score": 156.9,
+      "scoreLow": 154.1,
+      "scoreHigh": 159.7,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1338,10 +1362,10 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 152.4,
-      "scoreLow": 150,
-      "scoreHigh": 154.7,
-      "checked": "2026-10-20",
+      "score": 152.8,
+      "scoreLow": 150.2,
+      "scoreHigh": 155.1,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1362,10 +1386,10 @@
       "longOutput": null,
       "context": 200000,
       "maxOutput": 64000,
-      "score": 146.8,
-      "scoreLow": 145.2,
-      "scoreHigh": 148.4,
-      "checked": "2026-10-20",
+      "score": 146.7,
+      "scoreLow": 145,
+      "scoreHigh": 148.3,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1386,10 +1410,10 @@
       "longOutput": null,
       "context": null,
       "maxOutput": null,
-      "score": 141.7,
-      "scoreLow": 138.7,
+      "score": 141.6,
+      "scoreLow": 139,
       "scoreHigh": 143.1,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1410,10 +1434,10 @@
       "longOutput": 2.5,
       "context": 1000000,
       "maxOutput": 128000,
-      "score": 159,
-      "scoreLow": 156.6,
-      "scoreHigh": 162.1,
-      "checked": "2026-10-20",
+      "score": 159.3,
+      "scoreLow": 156.2,
+      "scoreHigh": 162.5,
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1434,10 +1458,10 @@
       "longOutput": null,
       "context": 200000,
       "maxOutput": 64000,
-      "score": 142.4,
-      "scoreLow": 139.3,
+      "score": 142.2,
+      "scoreLow": 139.4,
       "scoreHigh": 144.1,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1461,7 +1485,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://platform.claude.com/docs/en/about-claude/pricing"
     },
     {
@@ -1482,9 +1506,9 @@
       "longOutput": null,
       "context": null,
       "maxOutput": null,
-      "score": 164.6,
-      "scoreLow": 161.7,
-      "scoreHigh": 168.7,
+      "score": 166.5,
+      "scoreLow": 163.2,
+      "scoreHigh": 171.5,
       "checked": "2026-10-14",
       "source": "https://ai.google.dev/gemini-api/docs/pricing"
     },
@@ -1506,9 +1530,9 @@
       "longOutput": null,
       "context": 1048576,
       "maxOutput": 65536,
-      "score": 157.2,
-      "scoreLow": 155,
-      "scoreHigh": 160.5,
+      "score": 157.4,
+      "scoreLow": 155.1,
+      "scoreHigh": 161.1,
       "checked": "2026-10-14",
       "source": "https://ai.google.dev/gemini-api/docs/pricing"
     },
@@ -1530,9 +1554,9 @@
       "longOutput": null,
       "context": 1048576,
       "maxOutput": 65536,
-      "score": 154.2,
-      "scoreLow": 152.7,
-      "scoreHigh": 156.1,
+      "score": 154.5,
+      "scoreLow": 152.9,
+      "scoreHigh": 156.6,
       "checked": "2026-10-14",
       "source": "https://ai.google.dev/gemini-api/docs/pricing"
     },
@@ -1554,9 +1578,9 @@
       "longOutput": null,
       "context": 1048576,
       "maxOutput": 65536,
-      "score": 145.2,
-      "scoreLow": 142.7,
-      "scoreHigh": 146.7,
+      "score": 144.9,
+      "scoreLow": 142.4,
+      "scoreHigh": 146.3,
       "checked": "2026-10-14",
       "source": "https://ai.google.dev/gemini-api/docs/pricing"
     },
@@ -1602,9 +1626,9 @@
       "longOutput": null,
       "context": 1048576,
       "maxOutput": 65536,
-      "score": 144.5,
+      "score": 144.3,
       "scoreLow": 142.3,
-      "scoreHigh": 146,
+      "scoreHigh": 145.7,
       "checked": "2026-10-14",
       "source": "https://ai.google.dev/gemini-api/docs/pricing"
     },
@@ -1723,9 +1747,9 @@
       "context": 500000,
       "maxOutput": null,
       "score": 154.4,
-      "scoreLow": 152.7,
-      "scoreHigh": 156.5,
-      "checked": "2026-10-20",
+      "scoreLow": 152.6,
+      "scoreHigh": 157.1,
+      "checked": "2026-10-28",
       "source": "https://docs.x.ai/docs/models"
     },
     {
@@ -1746,10 +1770,10 @@
       "longOutput": 12,
       "context": 500000,
       "maxOutput": null,
-      "score": 156.3,
-      "scoreLow": 154.5,
-      "scoreHigh": 158.7,
-      "checked": "2026-10-20",
+      "score": 156.6,
+      "scoreLow": 154.7,
+      "scoreHigh": 159.2,
+      "checked": "2026-10-28",
       "source": "https://docs.x.ai/docs/models"
     },
     {
@@ -1770,10 +1794,10 @@
       "longOutput": 12,
       "context": 500000,
       "maxOutput": null,
-      "score": 153.9,
-      "scoreLow": 152.5,
-      "scoreHigh": 155.9,
-      "checked": "2026-10-20",
+      "score": 154.1,
+      "scoreLow": 152.4,
+      "scoreHigh": 156.2,
+      "checked": "2026-10-28",
       "source": "https://docs.x.ai/docs/models"
     },
     {
@@ -1797,7 +1821,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://docs.x.ai/docs/models"
     },
     {
@@ -1821,7 +1845,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://docs.x.ai/docs/models"
     },
     {
@@ -1845,7 +1869,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://docs.x.ai/docs/models"
     },
     {
@@ -1869,7 +1893,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://docs.x.ai/docs/models"
     },
     {
@@ -1893,7 +1917,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-20",
+      "checked": "2026-10-28",
       "source": "https://docs.x.ai/docs/models"
     },
     {
@@ -1914,9 +1938,9 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": null,
-      "score": 155.3,
-      "scoreLow": 153.5,
-      "scoreHigh": 157.6,
+      "score": 155.6,
+      "scoreLow": 153.7,
+      "scoreHigh": 158,
       "checked": "2026-10-22",
       "source": "https://api-docs.deepseek.com/quick_start/pricing"
     },
@@ -1938,9 +1962,9 @@
       "longOutput": null,
       "context": 1000000,
       "maxOutput": null,
-      "score": 155.6,
-      "scoreLow": 153.5,
-      "scoreHigh": 157.6,
+      "score": 155.9,
+      "scoreLow": 153.7,
+      "scoreHigh": 158.6,
       "checked": "2026-10-22",
       "source": "https://api-docs.deepseek.com/quick_start/pricing"
     },
@@ -1965,7 +1989,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-23",
+      "checked": "2026-10-28",
       "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
@@ -1989,7 +2013,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-23",
+      "checked": "2026-10-28",
       "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
@@ -2010,10 +2034,10 @@
       "longOutput": null,
       "context": 1048576,
       "maxOutput": null,
-      "score": 157.4,
+      "score": 157.9,
       "scoreLow": 155.1,
-      "scoreHigh": 160.1,
-      "checked": "2026-10-23",
+      "scoreHigh": 160.6,
+      "checked": "2026-10-28",
       "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
@@ -2034,10 +2058,10 @@
       "longOutput": null,
       "context": 262144,
       "maxOutput": null,
-      "score": 149.9,
-      "scoreLow": 147.9,
-      "scoreHigh": 151.7,
-      "checked": "2026-10-23",
+      "score": 150.1,
+      "scoreLow": 148.2,
+      "scoreHigh": 151.8,
+      "checked": "2026-10-28",
       "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
@@ -2061,7 +2085,7 @@
       "score": null,
       "scoreLow": null,
       "scoreHigh": null,
-      "checked": "2026-10-23",
+      "checked": "2026-10-28",
       "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
@@ -2083,9 +2107,9 @@
       "context": 262144,
       "maxOutput": null,
       "score": 150.9,
-      "scoreLow": 149.1,
-      "scoreHigh": 152.8,
-      "checked": "2026-10-23",
+      "scoreLow": 149,
+      "scoreHigh": 152.7,
+      "checked": "2026-10-28",
       "source": "https://platform.kimi.ai/docs/pricing/chat"
     },
     {
@@ -2106,9 +2130,9 @@
       "longOutput": null,
       "context": null,
       "maxOutput": null,
-      "score": 156.9,
-      "scoreLow": 155.1,
-      "scoreHigh": 159.1,
+      "score": 157.4,
+      "scoreLow": 155.3,
+      "scoreHigh": 160.3,
       "checked": "2026-10-14",
       "source": "https://www.qwencloud.com/pricing/api"
     },
@@ -2154,9 +2178,9 @@
       "longOutput": null,
       "context": null,
       "maxOutput": null,
-      "score": 153.8,
-      "scoreLow": 152,
-      "scoreHigh": 156.2,
+      "score": 154,
+      "scoreLow": 152.3,
+      "scoreHigh": 156.5,
       "checked": "2026-10-14",
       "source": "https://www.qwencloud.com/pricing/api"
     },
@@ -2178,8 +2202,8 @@
       "longOutput": 3.84,
       "context": null,
       "maxOutput": null,
-      "score": 147.3,
-      "scoreLow": 145.6,
+      "score": 147,
+      "scoreLow": 145.3,
       "scoreHigh": 148.8,
       "checked": "2026-10-14",
       "source": "https://www.qwencloud.com/pricing/api"
@@ -2202,9 +2226,9 @@
       "longOutput": 0.4,
       "context": null,
       "maxOutput": null,
-      "score": 144.6,
-      "scoreLow": 142.6,
-      "scoreHigh": 147.2,
+      "score": 144.1,
+      "scoreLow": 141.9,
+      "scoreHigh": 145.9,
       "checked": "2026-10-14",
       "source": "https://www.qwencloud.com/pricing/api"
     }
